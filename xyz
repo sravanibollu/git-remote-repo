@@ -1,2 +1,7 @@
 new file for merge
+<<<<<<< HEAD
 adding some text in master branch
+=======
+
+adding second text
+>>>>>>> branch1
